@@ -45,6 +45,7 @@ def get_safe_l2_contract_address(ethereum_client: EthereumClient) -> ChecksumAdd
             "0x3E5c63644E683549055b9Be8653de26E0B4CD36E",  # v1.3.0
             "0xfb1bffC9d739B8D520DaF37dF666da4C687191EA",  # v1.3.0
             "0x1727c2c531cf966f902E5927b98490fDFb3b2b70",  # v1.3.0 zkSync
+            "0xEf802ba3e7a12445f7F5Eb070aC24e58894ac22F",  # Fluence deployment to Calibration
         ],
     )
 
@@ -71,6 +72,7 @@ def get_proxy_factory_address(ethereum_client: EthereumClient) -> ChecksumAddres
             "0xa6B71E26C5e0845f74c812102Ca7114b6a896AB2",  # v1.3.0
             "0xC22834581EbC8527d974F8a1c97E1bEA4EF910BC",  # v1.3.0
             "0xDAec33641865E4651fB43181C6DB6f7232Ee91c2",  # v1.3.0 zkSync
+            "0xc4d9aaF7cc8401070657049Aceae7d14b5c35810",  # Fluence deployment to Calibration
         ],
     )
 
