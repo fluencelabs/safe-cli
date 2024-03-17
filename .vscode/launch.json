@@ -15,6 +15,19 @@
       ],
       "python": "/opt/homebrew/bin/python3.11",
       "justMyCode": false
+    },
+    {
+      "name": "Safe Creator",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "safe_cli.safe_creator",
+      "args": [
+        "https://rpc.ankr.com/filecoin_testnet",
+        "..."
+      ],
+      "python": "/opt/homebrew/bin/python3.11",
+      "justMyCode": false,
+      "console": "integratedTerminal"
     }
   ]
 }

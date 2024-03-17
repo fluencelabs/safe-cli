@@ -45,7 +45,7 @@ def get_safe_l2_contract_address(ethereum_client: EthereumClient) -> ChecksumAdd
             "0x3E5c63644E683549055b9Be8653de26E0B4CD36E",  # v1.3.0
             "0xfb1bffC9d739B8D520DaF37dF666da4C687191EA",  # v1.3.0
             "0x1727c2c531cf966f902E5927b98490fDFb3b2b70",  # v1.3.0 zkSync
-            "0xEf802ba3e7a12445f7F5Eb070aC24e58894ac22F",  # Fluence deployment to Calibration
+            "0x1bb5d02dF3Bcb1a83745754fF041E7E6BE37ECeb",  # Fluence deployment to Calibration
         ],
     )
 
@@ -60,6 +60,7 @@ def get_default_fallback_handler_address(
             "0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4",  # v1.3.0
             "0x017062a1dE2FE6b99BE3d9d37841FeD19F573804",  # v1.3.0
             "0x2f870a80647BbC554F3a0EBD093f11B4d2a7492A",  # v1.3.0 zkSync
+            "0x486Ec31C335DBe42E59b9d6376aF67Db6C88A267",  # Fluence deployment
         ],
     )
 
@@ -72,7 +73,7 @@ def get_proxy_factory_address(ethereum_client: EthereumClient) -> ChecksumAddres
             "0xa6B71E26C5e0845f74c812102Ca7114b6a896AB2",  # v1.3.0
             "0xC22834581EbC8527d974F8a1c97E1bEA4EF910BC",  # v1.3.0
             "0xDAec33641865E4651fB43181C6DB6f7232Ee91c2",  # v1.3.0 zkSync
-            "0xc4d9aaF7cc8401070657049Aceae7d14b5c35810",  # Fluence deployment to Calibration
+            "0x220c3eF4fE3e29c3A378AAeAF31EE856288Caf80",  # Fluence deployment to Calibration
         ],
     )
 
@@ -85,6 +86,7 @@ def get_last_multisend_address(ethereum_client: EthereumClient) -> ChecksumAddre
             "0xA238CBeb142c10Ef7Ad8442C6D1f9E89e07e7761",  # v1.3.0
             "0x998739BFdAAdde7C933B942a68053933098f9EDa",  # v1.3.0
             "0x0dFcccB95225ffB03c6FBB2559B530C2B7C8A912",  # v1.3.0 zkSync
+            "0x189bC06958a422539bA3510b964537a71f9cEceD",  # Fluence deployment to Calibration
         ],
     )
 
@@ -99,6 +101,7 @@ def get_last_multisend_call_only_address(
             "0x40A2aCCbd92BCA938b02010E17A5b8929b49130D",  # v1.3.0
             "0xA1dabEF33b3B82c7814B6D82A79e50F4AC44102B",  # v1.3.0
             "0xf220D3b4DFb23C4ade8C88E526C1353AbAcbC38F",  # v1.3.0 zkSync
+            "0x5d2bDb5b6154E510A129Aba543324fC2C09e027F",  # Fluence deployment to Calibration
         ],
     )
 
@@ -113,5 +116,6 @@ def get_last_sign_message_lib_address(
             "0xA65387F16B013cf2Af4605Ad8aA5ec25a2cbA3a2",  # v1.3.0
             "0x98FFBBF51bb33A056B08ddf711f289936AafF717",  # v1.3.0
             "0x357147caf9C0cCa67DfA0CF5369318d8193c8407",  # v1.3.0 zkSync
+            "0x9BB7d62A36DD7A346faf5d3afC1Dc531D86D39D6",  # Fluence deployment to Calibration
         ],
     )

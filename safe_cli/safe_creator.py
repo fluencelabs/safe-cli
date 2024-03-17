@@ -209,3 +209,6 @@ def main(*args, **kwargs) -> EthereumTxSent:
             )
             print_formatted_text(f"Tx parameters={ethereum_tx_sent.tx}")
             return ethereum_tx_sent
+
+if __name__ == "__main__":
+    main()
